@@ -1,6 +1,6 @@
 <p align="center">
   <a 
-    <img src=>
+    <img src="https://github.com/matheusmendes58/Estudo-HTML5-Site-Barbearia-Alura/blob/master/Apredendo%20Html5%20+%20CSS/logo.png?raw=true">
   </a>
 </p>
 
